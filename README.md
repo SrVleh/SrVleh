@@ -2,7 +2,7 @@
 🔭 I’m currently working on personal projects
 
 
-# 💻 Tech Stack:
+# 💻 Currently working on:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SrVleh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
