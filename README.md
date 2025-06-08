@@ -1,20 +1,58 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects
+# Welcome !👨‍💻
+
+<center> <img src="DSREADME.gif"></center> <br><br>
+
+> Frontend Engineer | Transforming Business Ideas into High-Performance React Applications | TypeScript Expert | AI-Powered Solutions
+
+## 🎯 About Me
+
+Experienced Frontend Engineer specializing in React.js and TypeScript, with 3+ years delivering high-performance web applications for diverse industries. I transform complex business requirements into intuitive user interfaces that drive engagement and conversion.
+What I bring to your team:
+
+-🚀 Performance-First Development: Optimized applications serving 100K+ users with sub-second load times
+-🌐 Full-Stack Perspective: Backend experience across Java, C#, Ruby on Rails, and Python enables seamless frontend-backend integration
+-🛠 Framework Agnostic: Proven expertise in React and Angular for maximum project flexibility
+-📈 Business-Focused Approach: Clean, maintainable code that reduces technical debt and accelerates feature delivery
+-🤖 Currently exploring: AI-powered user experiences and modern deployment strategies that give companies competitive advantages
+-🙌 Ready to contribute: Whether you're scaling a startup, modernizing legacy systems, or building the next breakthrough product, I adapt quickly and deliver solutions that matter
+## 🛠️ Technical Stack
+
+### AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Full Stack Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-# 💻 Currently working on:
-![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+## 🌟 Current Roles
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SrVleh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SrVleh&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrVleh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **Frontend Engineer** @ Freelancer
+  -Developed responsive apps with React, TypeScript, and third-party APIs
+  -Turned designs into clean code, ensuring performance and compatibility
+  -Advised clients and owned full workflows from setup to deployment
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SrVleh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+- **Frontend Engineer** @ Seidor
+  -Built and maintained custom web apps using Angular, Java, Node, and React
+  -Collaborated in agile teams with backend, QA, and design roles
+  -Delivered high-quality solutions tailored to client needs and performance goals
 
----
-[![](https://visitcount.itsvg.in/api?id=SrVleh&icon=2&color=0)](https://visitcount.itsvg.in)
+- **Frontend Engineer** @ DAE Engineering
+  -Built and styled web interfaces with Angular, SCSS, TypeScript, and HTML
+  -Developed Python internal tools and championed agile best practices
+  -Transitioned to professional role, solidifying my passion for frontend development
 
-<!-- Recently discovered this page: -->
-<!-- GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Let's Connect!
+
+>[Check out about me:](https://www.linkedin.com/in/valentin-froicu/)
+
+>[Or tak a look at my portfolio:](https://valentinfroicu.com/)
