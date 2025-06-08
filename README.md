@@ -1,7 +1,5 @@
 # Welcome !👨‍💻
 
-<center> <img src="DSREADME.gif"></center> <br><br>
-
 > Frontend Engineer | Transforming Business Ideas into High-Performance React Applications | TypeScript Expert | AI-Powered Solutions
 
 ## 🎯 About Me
