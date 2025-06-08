@@ -55,4 +55,4 @@ What I bring to your team:
 
 >[Check out about me:](https://www.linkedin.com/in/valentin-froicu/)
 
->[Or tak a look at my portfolio:](https://valentinfroicu.com/)
+>[Or take a look at my portfolio:](https://valentinfroicu.com/)
