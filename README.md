@@ -35,6 +35,8 @@ What I bring to your team:
 
 ## 🌟 Current Roles
 
+- **Software Engineer** @ MyticInnova
+
 - **Frontend Engineer** @ Freelancer
   - Developed responsive apps with React, TypeScript, and third-party APIs
   - Turned designs into clean code, ensuring performance and compatibility
