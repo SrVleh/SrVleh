@@ -54,6 +54,6 @@ What I bring to your team:
 
 ## 🌐 Let's Connect!
 
->[Check out about me:](https://www.linkedin.com/in/valentin-froicu/)
+>[Check out about me in Linkedin](https://www.linkedin.com/in/valentin-froicu/)
 
->[Or take a look at my portfolio:](https://valentinfroicu.com/)
+>[Or take a look at my portfolio](https://valentinfroicu.com/)
