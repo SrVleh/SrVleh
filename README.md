@@ -8,7 +8,7 @@ Experienced Frontend Engineer specializing in React.js and TypeScript, with 3+ y
 What I bring to your team:
 
 - 🚀 Performance-First Development: Optimized applications serving 100K+ users with sub-second load times
-- 🌐 Full-Stack Perspective: Backend experience across Java, C#, Ruby on Rails, and Python enables seamless frontend-backend integration
+- 🌐 Full-Stack Perspective: Backend experience across Java, C#, Ruby on Rails, Python and Node enables seamless frontend-backend integration
 - 🛠 Framework Agnostic: Proven expertise in React and Angular for maximum project flexibility
 - 📈 Business-Focused Approach: Clean, maintainable code that reduces technical debt and accelerates feature delivery
 - 🤖 Currently exploring: AI-powered user experiences and modern deployment strategies that give companies competitive advantages
